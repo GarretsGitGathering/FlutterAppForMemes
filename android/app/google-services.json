@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "629508529249",
+    "firebase_url": "https://garrets-flutter-project-default-rtdb.firebaseio.com",
+    "project_id": "garrets-flutter-project",
+    "storage_bucket": "garrets-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629508529249:android:e205fa397346a9d8d4de20",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApNB5JZHdH49Dcxn_r-MVkFDdkIJfJu-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629508529249:android:f491085e6734d6cfd4de20",
+        "android_client_info": {
+          "package_name": "com.example.garrets_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApNB5JZHdH49Dcxn_r-MVkFDdkIJfJu-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
